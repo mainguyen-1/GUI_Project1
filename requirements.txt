@@ -5,6 +5,5 @@ matplotlib
 seaborn
 Pillow
 scikit-learn
-re
 unicodedata
 datetime
